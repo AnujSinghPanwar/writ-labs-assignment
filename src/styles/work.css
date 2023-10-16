@@ -1,0 +1,39 @@
+.plus-style {
+  /* border: 1px solid red; */
+  padding: 1%;
+}
+.main-row{
+  background-color: #F1EFEF;
+  border-radius: 4px;
+  margin: 1%;
+  padding: 1%;
+}
+
+.plus-icon {
+  cursor: pointer;
+  font-size: 20px;
+}
+.btn-save {
+  margin: 2px;
+}
+.btn-reset {
+  margin: 2px;
+}
+.btn-add {
+  margin: 2px;
+}
+
+.list-row{
+  padding: 6px 10px;
+  border-radius: 4px;
+  background-color: #7D7C7C;
+  color: white;
+  margin: 2px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-row > p{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+}

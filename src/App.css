@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main-container {
+  /* height: 100vh; */
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: flex-start; */
+  align-items: center;
+  flex-direction: column;
+  /* justify-content:space-evenly; */
+}
+
+.nav {
+  /* border: 1px solid red; */
+  width: 30%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.main-content{
+  width: 80%;
+  /* border: 1px solid red; */
+  height: 60%;
+  /* background-color: azure; */
+}

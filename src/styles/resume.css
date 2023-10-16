@@ -1,0 +1,71 @@
+.resume-main-container {
+  margin: 0;
+  padding: 0;
+  /* height: 80vh; */
+  background-color: antiquewhite;
+  border-radius: 5px;
+}
+.span-div {
+  text-align: center;
+  font-size: 25px;
+  /* margin-top: 100px; */
+}
+
+
+.second-div {
+  /* border: 1px solid red; */
+  margin: 20px;
+  height: 50vh;
+  /* padding: 5px; */
+  /* display: flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content:center; */
+}
+.personal-info {
+  background-color: gray;
+  border-radius: 4px;
+  padding: 10px;
+  color: aliceblue;
+}
+
+.personal-info > p {
+  font-size: 25px;
+}
+.personal-info > p > span {
+  font-size: 20px;
+  font-weight: 600;
+  /* font-weight: 600; */
+}
+
+.skill-info {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.skill {
+  /* border: 1px solid red; */
+  border-radius: 5px;
+  padding: 1px 10px;
+  background-color: rgb(177, 173, 173);
+  color: white;
+  margin: 1px;
+}
+
+
+.footer{
+  padding: 5px 10px;
+  border-radius: 4px;
+  /* background-color: blueviolet; */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+}
+.back{
+  cursor: pointer;
+  padding: 5px 10px;
+  color: white;
+  background-color: cadetblue;
+  border-radius: 4px;
+}

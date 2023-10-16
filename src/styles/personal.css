@@ -1,0 +1,33 @@
+.personal-main-container{
+    margin: 10px;
+    /* height: 100vh; */
+}
+
+.main-row{
+    background-color: #F1EFEF;
+    border-radius: 4px;
+    margin: 1%;
+    padding: 1%;
+}
+.emp-list{
+    background-color: #7D7C7C;
+    color: white;
+    /* background-color: rgb(148, 228, 228); */
+    padding: 6px 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin: 2px;
+}
+.icon-style{
+    cursor: pointer;
+    /* border: 1px solid red; */
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+
+}
+
+/* .emp-list > span{
+} */

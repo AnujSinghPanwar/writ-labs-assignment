@@ -1,0 +1,14 @@
+.title{
+    background-color: rgb(190, 184, 184);
+    padding: 8px 5px;
+    display: flex;
+    justify-content: space-between;
+    /* margin: 5px; */
+    color: white;
+    border-radius: 5px;
+}
+
+.plus-icon{
+    font-size: 20px;
+    color: black;
+}
