@@ -1,13 +1,10 @@
 import { createSlice } from "@reduxjs/toolkit";
-import data from "../data";
-import skill from "../data/skill";
 
 const crudSlice = createSlice({
   name: "users",
   initialState: [],
   reducers: {
     addEmployees: (state, action) => {
-      // console.log(action.payload);
       state.push(action.payload);
     },
     editEmployees: (state, action) => {

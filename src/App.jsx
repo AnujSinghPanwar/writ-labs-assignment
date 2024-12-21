@@ -16,7 +16,6 @@ const App = () => {
     <div className="main-container">
       <div className="nav">
         <Segmented
-          // onChange={(e) => setBtnActive(e)}
           value={btnActive}
           options={["Personal Info", "Work experience", "Education", "Skills","Resume"]}
         />

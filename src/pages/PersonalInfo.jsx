@@ -141,7 +141,7 @@ const PersonalInfo = ({ OnChangeHandler }) => {
               ) : (
                 <>
                   <Button type="primary" onClick={handleSubmitPersonal}>
-                    Add Personal Details
+                    Add Personal Detail
                   </Button>
                   <Button
                     type="dashed"
